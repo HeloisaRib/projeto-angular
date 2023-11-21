@@ -1,0 +1,13 @@
+button.slick-prev, .slick-next {
+    font-size: 70px;
+    color: #050505;
+}
+
+.slide {
+    margin: 20px;
+}
+
+.img-style {
+    height: 250px;
+    width: 250px;
+}
